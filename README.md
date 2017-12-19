@@ -48,11 +48,11 @@ To train your own net:
 
 # Image Results
 
-![Stop]('/results/Screen Shot 2016-12-28 at 11.45.13 AM.png?raw=true' "")
-![Left Turn](/results/Screen Shot 2016-12-28 at 11.46.36 AM.png?raw=true "")
+![Stop](/results/Screen%20Shot%202016-12-28%20at%2011.45.13%20AM.png "")
+![Left Turn](/results/Screen%20Shot%202016-12-28%20at%2011.46.36%20AM.png?raw=true "")
 ![Pedestrian Crossing](/results/Screen Shot 2016-12-28 at 11.47.12 AM.png?raw=true "")
-![Merge](/results/Screen Shot 2016-12-28 at 11.48.06 AM.png?raw=true "")
-![Speed Limit 35](/results/Screen Shot 2016-12-28 at 11.49.04 AM.png?raw=true "")
-![Speed Limit 45](/results/Screen Shot 2016-12-28 at 11.49.46 AM.png?raw=true "")
+![Merge](/results/Screen%20Shot%202016-12-28%20at%2011.47.12%20AM.png?raw=true "")
+![Speed Limit 35](/results/Screen%20Shot%202016-12-28%20at%2011.49.04%20AM.png?raw=true "")
+![Speed Limit 45](/results/Screen%20Shot%202016-12-28%20at%2011.49.46%20AM.png?raw=true "")
 
 
