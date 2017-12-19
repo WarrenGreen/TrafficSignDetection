@@ -1,4 +1,4 @@
-#CNN Traffic Sign Recognition <br/>
+# CNN Traffic Sign Recognition <br/>
 
 Using the caffe framework to train a CNN to detect US traffic street signs. Using the alexnet design, 98.5% accuracy can be reached within several hundred iterations. While all of the CNN data is included to feed a test image forward, instructions to train the net yourself is included.
 
@@ -48,7 +48,7 @@ To train your own net:
 
 # Image Results
 
-![Stop](/results/Screen Shot 2016-12-28 at 11.45.13 AM.png?raw=true "")
+![Stop]('/results/Screen Shot 2016-12-28 at 11.45.13 AM.png?raw=true' "")
 ![Left Turn](/results/Screen Shot 2016-12-28 at 11.46.36 AM.png?raw=true "")
 ![Pedestrian Crossing](/results/Screen Shot 2016-12-28 at 11.47.12 AM.png?raw=true "")
 ![Merge](/results/Screen Shot 2016-12-28 at 11.48.06 AM.png?raw=true "")
